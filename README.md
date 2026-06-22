@@ -50,15 +50,6 @@
 
 ---
 
- 📈 TradeX – Trading Platform
-> MERN Stack | Docker | CI/CD | JWT | Real-time Data
-
-- Full-stack trading platform with Portfolio, Holdings, Watchlist & Orders
-- Real-time market data with sub-second refresh
-- Dockerized with CI/CD pipeline — zero-downtime deployments
-
----
-
 🏟️ Turf Booking Platform
 > MERN Stack | Vercel + Render | 99%+ Uptime
 
